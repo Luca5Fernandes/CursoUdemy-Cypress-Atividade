@@ -19,7 +19,7 @@ Tecnologias e Linguagens usados nesse projeto:
 
 - Visual Studio Code
 - Cypress 
-- TypeScript
+- TypeScript 
 - JavaScript
 - Git e Git Hub
 
