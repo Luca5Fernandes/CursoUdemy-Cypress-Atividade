@@ -1,0 +1,37 @@
+module.exports = {
+  /// para exportar qualquer conteudo usar o module.exports
+  LOGIN: {
+    USER: '[data-test="email"]',
+    PASSWORD: '[data-test="passwd"]',
+    BTN_LOGIN: '.btn',
+  },
+  MENU: {
+    HOME: '[data-test="menu-home"]',
+    SETTINGS: '[data-test="menu-settings"]',
+    CONTAS: '[href="/contas"]',
+    RESET: '[href="/reset"]',
+    MOVIMENTACAO: '[data-test="menu-movimentacao"]',
+    EXTRATO: '[data-test="menu-extrato"]',
+  },
+  CONTAS: {
+    NOME: '[data-test=nome]',
+    BTN_SALVAR: '.btn',
+    XP_BTN_ALTERAR: "//table//td[contains(., 'Conta de Teste')]/ ..//i[@class='far fa-edit']",
+  },
+  MOVIMENTACAO: {
+    DESCRICAO: '[data-test="descricao"]',
+    VALOR: '[data-test="valor"]',
+    INTERESSADO: '[data-test="envolvido"]',
+    CONTA: '[data-test="conta"]',
+    STATUS: '[data-test="status"]',
+    BTN_SALVAR: '.btn-primary',
+  },
+  EXTRATO: {
+    FN_XP_REMOVER_ELEMENTO: (conta) =>
+      `//span[contains(., '&{conta}')]/../../..//i[@class='far fa-trash-alt]`,
+  },
+  SALDO: {
+    FN_XP_SALDO_CONTA: (nome) => `//td[contains(., '${nome}')]/../td[2]`,
+  },
+  MESSAGE: '.toast-message',
+};
