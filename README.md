@@ -1,25 +1,31 @@
-<h1 align="center">Árvore de Decisão em Python</h1>
+<h1 align="center">Testes de aplicações modernas com Cypress</h1>
 
 <p align="center">
   <a href="#dart-descrição">Descrição</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-dicas">Dicas</a> &#xa0; | &#xa0;
 </p>
 
 <br>
 
 ## :dart: Descrição
 
-Essa Atividade é uma implementação simplificada de uma Árvore de Decisão, incluindo funções para construir a árvore com 
-base em critérios como entropia e índice de Gini, bem como para prever as saídas com base na árvore treinada.
+Projeto feito junto ao Curso Testes de aplicações modernas com Cypress Site Udemy, com o objetivo de desenvolver e aperfeiçoar várias 
+técnicas de programação de Testes com o auxílio do Cypress.
 
 ## :rocket: Tecnologias
 
-Tecnologias e Linguagens usadas nesse projeto:
+Tecnologias e Linguagens usados nesse projeto:
 
-- Python
-- Google Colab
+- Visual Studio Code
+- Cypress 
+- TypeScript
+- JavaScript
 - Git e Git Hub
-- Banco de Dados
+
+Dicas
+
+Se possível faça o Curso para seguir as didáticas e entender os processos da automação de Teste.
 
 Made by <a href="https://github.com/Luca5Fernandes" target="_blank">Lucas Fernandes</a>
 
