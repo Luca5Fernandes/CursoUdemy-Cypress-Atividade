@@ -1,4 +1,4 @@
-<h1 align="center">Atividade Site Alura E2E</h1>
+<h1 align="center">Atividade Curso Udemy</h1>
 
 <p align="center">
   <a href="#dart-descrição">Descrição</a> &#xa0; | &#xa0; 
