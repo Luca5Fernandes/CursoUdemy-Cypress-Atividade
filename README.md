@@ -10,18 +10,22 @@
 
 ## :dart: Descrição
 
-Projeto feito junto ao Curso Cypress: automação de testes E2E no Site Alura, com o objetivo de desenvolver e aperfeiçoar varias 
-tecnicas de programação de Testes com o axulio do Cypress.
+Projeto feito junto ao Curso Testes de aplicações modernas com Cypress na Udemy, com o objetivo de desenvolver e aperfeiçoar várias 
+técnicas de programação de Testes com a ferramenta Cypress.
 
 ## :rocket: Tecnologias
 
-Tecnologias e Linguagens usados nesse projeto:
+Tecnologias e Linguagens usadas nesse projeto:
 
 - Visual Studio Code
 - Cypress 
 - TypeScript
 - JavaScript
 - Git e Git Hub
+
+Dicas
+
+Se possível faça o Curso Testes de aplicações modernas com Cypress na Udemy, para seguir as didáticas e entender os processos da automação de Teste.
 
 Made by <a href="https://github.com/Luca5Fernandes" target="_blank">Lucas Fernandes</a>
 
